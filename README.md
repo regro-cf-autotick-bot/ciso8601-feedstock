@@ -15,14 +15,16 @@ ciso8601 converts ISO8601 date time strings into Python datetime objects.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/ciso8601-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/ciso8601-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/ciso8601-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/ciso8601-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/ciso8601-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/ciso8601-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/ciso8601-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/ciso8601-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/ciso8601-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/ciso8601-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/ciso8601-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/ciso8601-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ciso8601/badges/version.svg)](https://anaconda.org/conda-forge/ciso8601)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/ciso8601/badges/downloads.svg)](https://anaconda.org/conda-forge/ciso8601)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-ciso8601-green.svg)](https://anaconda.org/conda-forge/ciso8601) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ciso8601.svg)](https://anaconda.org/conda-forge/ciso8601) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ciso8601.svg)](https://anaconda.org/conda-forge/ciso8601) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ciso8601.svg)](https://anaconda.org/conda-forge/ciso8601) |
 
 Installing ciso8601
 ===================
