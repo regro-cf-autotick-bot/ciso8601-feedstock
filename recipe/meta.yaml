@@ -1,6 +1,6 @@
 {% set name = "ciso8601" %}
-{% set version = "2.0.0" %}
-{% set sha256 = "0e5266ef6cbbca0348a548189f8514947e4f94182f726d9b658aa97bae2a7d17" %}
+{% set version = "2.0.1" %}
+{% set sha256 = "ceb646fd371549ca90b4d925127b35a1efcd572a53ee25dc126009ad828fe3cc" %}
 
 package:
   name: {{ name|lower }}
