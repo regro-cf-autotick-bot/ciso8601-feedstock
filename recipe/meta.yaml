@@ -1,6 +1,6 @@
 {% set name = "ciso8601" %}
-{% set version = "2.1.1" %}
-{% set sha256 = "01c44f93addee3cfd599ba6ae8d1b772ed642b89132e504c629feb57cc63a177" %}
+{% set version = "2.1.2" %}
+{% set sha256 = "307342e8bb362ae41a3f3a089c11b374116823bce6fbe5d784e2a2dc37f2c753" %}
 
 package:
   name: {{ name|lower }}
@@ -12,8 +12,8 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 1000
-  script: python -m pip install --no-deps --ignore-installed .
+  number: 0
+  script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 
 requirements:
